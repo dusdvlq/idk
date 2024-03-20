@@ -1,31 +1,7 @@
-Fuda
-
-
-
-┌──(FudaDev㉿root)-[~/devlab]
-└─$ FudaDev.py
-
-class FudaDev:
-
-    banana = []
-    bbc = []
-
-    def __FudaDev__(self) -> None:
-        self.about = {
-        'I mainly Program in Python',
-        'Owner of Bypass Tool (discontinued)'
-        }
-
-    def __my_socials__(self) -> None:
-        self.discord = "look down ∙"
-        self.github = "github.com/dusdvlq"
-        self.other = ['i dont have any other socials :(']
-
-    def __langs__(self) -> banana:
-        self.langs = ['Python', 'Lua', '..']
-
-    def __projects__(self) -> bbc:
-        self.projects = ['...']
-
-┌──(FudaDev㉿root)-[~/devlab]
-└─$
+- 👋 Hi, I’m @dusdvlq
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
