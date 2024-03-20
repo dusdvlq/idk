@@ -1,5 +1,9 @@
+Fuda
+
+
+
 ┌──(FudaDev㉿root)-[~/devlab]
-└─$ TheKindDeveloper.py
+└─$ FudaDev.py
 
 class FudaDev:
 
